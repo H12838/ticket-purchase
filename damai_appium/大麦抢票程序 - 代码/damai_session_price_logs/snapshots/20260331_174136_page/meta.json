@@ -1,0 +1,22 @@
+{
+  "captured_at": "2026-03-31T17:41:36",
+  "title": "确认购买",
+  "current_url": "https://m.damai.cn/shows/order-pay.html?buyNow=true&buyParam=1035761361090_3_6215891866343&exParams=%257B%2522damai%2522%253A%25221%2522%252C%2522channel%2522%253A%2522damai_app%2522%252C%2522umpChannel%2522%253A%2522100031004%2522%252C%2522subChannel%2522%253A%2522damai%2540damaih5_h5%2522%252C%2522atomSplit%2522%253A1%252C%2522signKey%2522%253A%2522clh%252BZ3RVWwBqQFp7SFtneHNfeGhwXl8JY01db0hPYXx5X39uclhQDmZXIgImKx4NDCwQDRUsPW0AVx4nDCkjKS4eJiooCBoCYEBUf0FNYHl1TCwxLQIHA2ZEQX9NQWVwdVx%252BaWcOBlQ8GlZ8%2522%252C%2522rtc%2522%253A1%257D&from=def&sqm=dianying.h5.unknown.value&spm=a2o71.product_detail.0.product_detail",
+  "reason": "page",
+  "page_hash": "d83e887d0a77c89e960ef79b37a75fb758156011454608ea1d1dd4ed07685838",
+  "extract_hash": "52d1304dffd6975a0ff81d3f820ff8b3087fac79bdb683b0b936791b75210b39",
+  "diff": {
+    "sessions": {
+      "added": [],
+      "removed": []
+    },
+    "prices": {
+      "added": [],
+      "removed": []
+    },
+    "notices": {
+      "added": [],
+      "removed": []
+    }
+  }
+}

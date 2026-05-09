@@ -1,0 +1,28 @@
+{
+  "captured_at": "2026-03-31T15:41:32",
+  "title": "商品详情",
+  "current_url": "https://m.damai.cn/shows/item.html?from=def&itemId=1032273971657&sqm=dianying.h5.unknown.value&spm=a2o71.home.list.ditem_0",
+  "reason": "page_extract",
+  "page_hash": "6f8a8250b719ec44b41b7f50dfea1f1c0727bd095464673d453a3bd626752f5e",
+  "extract_hash": "316b7162fbfa867df9ab866dc1a03225a08217742c791f8f1d281648f089c6f0",
+  "diff": {
+    "sessions": {
+      "added": [
+        "场次 2026-06-20 周六 14:30 无票 580票品含VIP场前互动礼 2026-06-20 周六 19:30 无票"
+      ],
+      "removed": [
+        "2026-06-14 周日 19:30",
+        "2026-06-18 周四 19:30",
+        "日期 场次时间均为演出当地时间 周一 06.15 周二 06.16 周三 06.17 周四 06.18 周五 06.19 无票 06.20 周日 06.21 展开"
+      ]
+    },
+    "prices": {
+      "added": [],
+      "removed": []
+    },
+    "notices": {
+      "added": [],
+      "removed": []
+    }
+  }
+}

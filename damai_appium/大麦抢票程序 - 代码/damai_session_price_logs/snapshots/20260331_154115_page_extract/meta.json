@@ -1,0 +1,25 @@
+{
+  "captured_at": "2026-03-31T15:41:15",
+  "title": "商品详情",
+  "current_url": "https://m.damai.cn/shows/item.html?from=def&itemId=1032273971657&sqm=dianying.h5.unknown.value&spm=a2o71.home.list.ditem_0",
+  "reason": "page_extract",
+  "page_hash": "d667b04cd1909e4e48901bebaea4c4b614364df543854b62d0f9ce8366f9279f",
+  "extract_hash": "ddaae5fc64ee5c5abb488c5083a9b25b89418c0761af6a121213382d7ec19eba",
+  "diff": {
+    "sessions": {
+      "added": [
+        "2026-06-18 周四 19:30",
+        "日期 场次时间均为演出当地时间 周一 06.15 周二 06.16 周三 06.17 周四 06.18 周五 06.19 无票 06.20 周日 06.21 展开"
+      ],
+      "removed": []
+    },
+    "prices": {
+      "added": [],
+      "removed": []
+    },
+    "notices": {
+      "added": [],
+      "removed": []
+    }
+  }
+}

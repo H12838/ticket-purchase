@@ -1,0 +1,26 @@
+{
+  "sessions": [
+    {
+      "text": "2026-06-20 周六 14:30",
+      "score": 8,
+      "source": "main:parent"
+    },
+    {
+      "text": "2026-06-20 周六 19:30",
+      "score": 8,
+      "source": "main:parent"
+    },
+    {
+      "text": "2026-06-26 周五 19:30",
+      "score": 8,
+      "source": "main:node"
+    },
+    {
+      "text": "日期 场次时间均为演出当地时间 周二 06.23 周三 06.24 周四 06.25 周五 06.26 周六 06.27 周日 06.28 周一 06.29 展开",
+      "score": 6,
+      "source": "main:node"
+    }
+  ],
+  "prices": [],
+  "notices": []
+}
